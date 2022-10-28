@@ -454,4 +454,4 @@ async def on_reaction_add(reaction, user):
             await message.edit(content="")
 
 
-client.run('Your token here')
+client.run('MTAxNjcwODE4MzI0NDQwNjkwNQ.GdOzwz.Fepc3s5xdAsFo0qBvpimkkWEBzteDFipKa39lY')
